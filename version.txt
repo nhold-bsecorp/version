@@ -1,0 +1,4 @@
+{
+    "mustUpdateVersion": "2.2",
+    "shouldUpdateVersion": "3.4"
+}
